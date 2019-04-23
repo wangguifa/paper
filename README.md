@@ -1,5 +1,8 @@
 该Demo是仿人民日报客户端app报纸版面-Android，阴影区域坐标有点问题，没有适配，大概原理就是这样，效果图如下：
 ![效果图](https://github.com/wangguifa/paper/blob/master/img/demo.gif)
+<br/>
+Demo对应的博客地址：https://blog.csdn.net/qq_16240393/article/details/89470869
+<br/>
 下面是一期报纸的完整json，有兴趣的可以自己加个ViewPaper完成全部功能：
 ~~~
 {
